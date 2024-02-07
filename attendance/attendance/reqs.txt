@@ -1,0 +1,4 @@
+opencv-python
+pandas
+face-recognition
+scikit-learn
